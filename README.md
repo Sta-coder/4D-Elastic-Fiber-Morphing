@@ -2,7 +2,7 @@
 
 [![Python 3.10+](https://shields.io)](https://python.org)
 [![Cinema 4D](https://shields.io)](https://maxon.net)
-[![License: MIT](https://shields.io)](LICENSE)
+[![License: MIT](https://shields.io)](LICENSE)[![DOI](https://zenodo.org/badge/1461271194.svg)](https://doi.org/10.5281/zenodo.24309319)
 
 A computational graphics and physics framework that projects **6-plane SO(4) four-dimensional tesseract rotations** into **3D Hookean elastic fiber networks**, complete with **sinusoidal kinematic envelopes** and **threshold-driven spatiotemporal erosion** for Maxon Cinema 4D, Redshift, and Python.
 
